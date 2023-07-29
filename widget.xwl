@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xwidget version="1.0">
+	<info>
+		<name>U-Boat</name>
+		<namespace/>
+		<displayName>Panzer Temperature Gauge OHM</displayName>
+		<version>1.0.0</version>
+		<authorName>Dean Beedell</authorName>
+		<description>The Panzer Temperature widget for Open Hardware Monitor based. This widget requires OHM to be present and running to obtain temperature information.</description>
+		<permissions/>
+		<CloseBoxInsetX>626</CloseBoxInsetX>
+		<CloseBoxInsetY>62</CloseBoxInsetY>
+		<Width>838</Width>
+		<Height>710</Height>
+		<minPlatformVersion>0.1</minPlatformVersion>
+		<uiType>xul</uiType>
+		<mainSrc>main.xul</mainSrc>
+		<guid/>
+		<updateLog>Recent changes include:</updateLog>
+		<category>2</category>
+		<authorContact>http://lightquick.co.uk/steampunk-widgets.html?Itemid=264</authorContact>
+		<portAuthorName/>
+		<portAuthorContact/>
+		<tag/>
+		<enabledCloseBox>false</enabledCloseBox>
+		<platform>0</platform>
+	</info>
+</xwidget>
