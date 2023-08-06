@@ -706,11 +706,12 @@ function settooltip() {
 //===========================================
 function backgroundOnMouseWheelUp(Sender,Key,KeyChar,Shift)
 {
-         //print("here!");
+         //print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>here!");
          size = Scale;
          step = Math.round((maxLength - minLength) / (ticks - 1));
 	        if ( preferencesMouseWheelPrefValue.text == "up" ) {
                    size += step;
+                   
 	           if (size > maxLength) {
 	              size = maxLength;
 	           }
@@ -736,7 +737,7 @@ function backgroundOnMouseWheelUp(Sender,Key,KeyChar,Shift)
 //===========================================
 function backgroundOnMouseWheelDown(Sender,Key,KeyChar,Shift)
 {       
-         //print("here!");
+         //print(">>>>>>>>>>>>>>>>>>>here!");
          
          size = Scale;
          step = Math.round((maxLength - minLength) / (ticks - 1));
@@ -1163,3 +1164,15 @@ function findWidget(Sender)
 {
   open(WidgetPath);
 }
+
+
+//==================================================
+// this function calls the user-specified command on a double click on the pipes
+//==================================================
+function faceOnDblClick(Sender)
+{
+  performCommand();
+}
+//=====================
+//End function
+//=====================
