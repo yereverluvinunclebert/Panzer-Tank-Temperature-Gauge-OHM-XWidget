@@ -2,7 +2,7 @@
 
 Panzer OHM Temperature Widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+.
 
-![panzerOHM650](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/8d616791-69d1-4d8d-8a88-c0e7cd3bdb7a)
+![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/57154e6d-57cf-45dc-aea2-5895a3cfcc89)
 
 This Panzer widget is an attractive dieselpunk Xwidget for your desktop. 
 It is a simple temperature gauge that can monitor the state of the various 
