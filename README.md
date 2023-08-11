@@ -31,9 +31,8 @@ All javascript widgets need an engine to function, in this case the widget uses 
 
 ![large](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0880400d-bcd5-4d25-a41d-dedde51aa0ff)
 
-The graphic interface and operation of the two types of widgets are the same. The 
-only differences are the configuration preference utility (this has a cut-down 
-version), the language is Micrososoft's JScript (rather than javascript) and it is the Xwidget engine that is utilised to put the widget on your screen.
+This is based on the similar Yahoo widget implementation. The graphic interface and operation of the two types of widgets are the same. The only differences are the configuration preference utility (this has a cut-down 
+version), the language is Micrososoft's JScript (rather than javascript) and of course, it is the Xwidget engine that is utilised to put the widget on your screen.
 
 ![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/a9d58973-347f-4f93-ba1f-4b538f743515)
 
