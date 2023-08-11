@@ -90,9 +90,7 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/8c33c6ff-afaa-4101-881c-64f5e716fdaa)
-
+![security](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/dfaf67a1-23fd-4713-b881-6548a49feb58)
 
 LICENCE AGREEMENTS:
 
