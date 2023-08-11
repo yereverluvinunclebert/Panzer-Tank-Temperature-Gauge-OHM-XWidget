@@ -29,9 +29,6 @@ I don't want it to look too old as it loses some of the immediacy.
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
-This widget is a virtual duplicate of the Yahoo widget CPU battery widget that 
-you can find here: 
-
 ![panzerOHMgauge](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/08a22632-ce31-4e88-8dd1-f05b41e582c2)
 
 The graphic interface and operation of the two types of widgets are the same. The 
