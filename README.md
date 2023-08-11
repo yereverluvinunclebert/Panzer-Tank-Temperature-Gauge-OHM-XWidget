@@ -2,7 +2,7 @@
 
 Panzer OHM Temperature Widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+.
 
-![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/57154e6d-57cf-45dc-aea2-5895a3cfcc89)
+![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/a57f0a10-ef83-48d6-b03c-6ecde9b86eed)
 
 This Panzer widget is an attractive dieselpunk Xwidget for your desktop. 
 It is a simple temperature gauge that can monitor the state of the various 
@@ -29,7 +29,7 @@ I don't want it to look too old as it loses some of the immediacy.
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
-![panzerOHMgauge](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/08a22632-ce31-4e88-8dd1-f05b41e582c2)
+![large](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0880400d-bcd5-4d25-a41d-dedde51aa0ff)
 
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
@@ -45,7 +45,7 @@ All Jscript widgets need an engine to function, in this case the widget uses
 the XWidget engine. The engine interprets the Jscript and creates the widget 
 according to the XML description and using the images you provide. 
 
-![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/a3c12e5b-5f7b-4464-8d3e-4a1cce50846b)
+![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/39cb2e2a-30a2-4927-98e2-d9dbdf460fc9)
 
 Built using: 
 
@@ -82,7 +82,7 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-![panzer-temperature-OHM-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/7135dc1e-d969-453d-83c0-e1f4ce26e243)
+![panzer-clock-help-750](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/04345ae0-7e73-4f8e-8cb2-7bfe28056f63)
 
 Instructions for running XWidgets on Windows
 =================================================
@@ -92,7 +92,7 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![security](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/dfaf67a1-23fd-4713-b881-6548a49feb58)
+![security](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/c85f5900-a811-4f76-9952-61fb3621c6bf)
 
 LICENCE AGREEMENTS:
 
@@ -105,5 +105,5 @@ original artist using my name or one of my pseudonyms and a link to my site.
 With regard to the commercial use of incorporated images, permission and a
 licence would need to be obtained from the original owner and creator, ie. me.
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0511e569-21ac-4392-8bcb-c1ddf952b80c)
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0fab7f72-0938-4362-bbec-6e1cc8a07159)
 
