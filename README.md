@@ -69,7 +69,12 @@ Tested on :
 	
 Dependencies:
 
-o A windows-alike o/s such as Windows XP, 7-11 or Apple Mac OSX 11.    	
+o A windows-alike o/s such as Windows XP, 7-11 or Apple Mac OSX 11.   
+
+o You must have Open Hardware Monitor installed and running for this widget to 
+operate. 
+   
+  https://openhardwaremonitor.org/downloads/   	
 
 o Installation of the XWidget runtime engine  
 
