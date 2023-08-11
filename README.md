@@ -1,6 +1,4 @@
 # Panzer Tank-Temperature-Gauge-OHM XWidget
- 
-# Panzer-OHM-gauge-Ywidget
 
 Panzer OHM Temperature Widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+.
 
