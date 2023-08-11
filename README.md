@@ -1,6 +1,4 @@
 # Panzer Tank-Temperature-Gauge-OHM XWidget
- 
-# Panzer-OHM-gauge-Ywidget
 
 Panzer OHM Temperature Widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+.
 
@@ -34,7 +32,7 @@ All javascript widgets need an engine to function, in this case the widget uses 
 This widget is a virtual duplicate of the Yahoo widget CPU battery widget that 
 you can find here: 
 
-![panzer-cpu-256](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/33b0308e-7e80-4fea-8b69-fa87b395e4c2)
+![panzerOHMgauge](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/08a22632-ce31-4e88-8dd1-f05b41e582c2)
 
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
@@ -50,6 +48,7 @@ All Jscript widgets need an engine to function, in this case the widget uses
 the XWidget engine. The engine interprets the Jscript and creates the widget 
 according to the XML description and using the images you provide. 
 
+![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/a3c12e5b-5f7b-4464-8d3e-4a1cce50846b)
 
 Built using: 
 
@@ -81,9 +80,7 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-CPU-Gauge-Xwidget/assets/2788342/29d6741b-0081-4861-a6fd-49d8a500704c)
-
-
+![panzer-temperature-OHM-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/7135dc1e-d969-453d-83c0-e1f4ce26e243)
 
 Instructions for running XWidgets on Windows
 =================================================
@@ -107,3 +104,6 @@ permission. In all other non-commercial cases I require a credit to the
 original artist using my name or one of my pseudonyms and a link to my site.
 With regard to the commercial use of incorporated images, permission and a
 licence would need to be obtained from the original owner and creator, ie. me.
+
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0511e569-21ac-4392-8bcb-c1ddf952b80c)
+
