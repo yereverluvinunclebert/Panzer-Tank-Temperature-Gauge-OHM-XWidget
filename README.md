@@ -29,6 +29,10 @@ I don't want it to look too old as it loses some of the immediacy.
 
 All javascript widgets need an engine to function, in this case the widget uses the XWidget engine. The engine interprets the javascript and creates the widget according to the XML description and using the images you provide.
 
+**************************************************************************************
+NOTICE: In general, I would suggest that you use the Yahoo Widget version of this program. The reason for this is that the old XWidget engine is no longer supported and elements of it use VBScript (which Microsoft has deprecated). The Yahoo widget is better, just as easy to use and will be supported for the foreseeable future. Note that I will be creating a replacement for both soon using VB.
+**************************************************************************************
+
 ![large](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget/assets/2788342/0880400d-bcd5-4d25-a41d-dedde51aa0ff)
 
 This is based on the similar Yahoo widget implementation. The graphic interface and operation of the two types of widgets are the same. The only differences are the configuration preference utility (this has a cut-down 
